@@ -1,0 +1,45 @@
+FatorA	FatorB	Bloco	Prod
+CULT1	Manejo1	1	66
+CULT1	Manejo1	2	64
+CULT1	Manejo1	3	76
+CULT1	Manejo2	1	70
+CULT1	Manejo2	2	67
+CULT1	Manejo2	3	83
+CULT1	Manejo3	1	63
+CULT1	Manejo3	2	61
+CULT1	Manejo3	3	69
+CULT1	Manejo4	1	57
+CULT1	Manejo4	2	60
+CULT1	Manejo4	3	71
+CULT2	Manejo1	1	68
+CULT2	Manejo1	2	59
+CULT2	Manejo1	3	78
+CULT2	Manejo2	1	74
+CULT2	Manejo2	2	80
+CULT2	Manejo2	3	90
+CULT2	Manejo3	1	76
+CULT2	Manejo3	2	80
+CULT2	Manejo3	3	87
+CULT2	Manejo4	1	92
+CULT2	Manejo4	2	100
+CULT2	Manejo4	3	108
+CULT3	Manejo1	1	68
+CULT3	Manejo1	2	69
+CULT3	Manejo1	3	73
+CULT3	Manejo2	1	112
+CULT3	Manejo2	2	112
+CULT3	Manejo2	3	113
+CULT3	Manejo3	1	70
+CULT3	Manejo3	2	60
+CULT3	Manejo3	3	71
+CULT3	Manejo4	1	75
+CULT3	Manejo4	2	66
+CULT3	Manejo4	3	79
+			
+			
+			
+			
+			
+			
+			
+			
